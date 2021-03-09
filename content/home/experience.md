@@ -24,10 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-09-07" # YYYY-DD-MM
   date_end = ""
-  description = """
-  * Leveraging machine learning for various tasks
-  * I wish I could tell more ...
-  """
+  description = ""
 
 [[experience]]
   title = "Data Scientist"
@@ -36,10 +33,6 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2015-06-26"
   date_end = "2019-06-18"
-  description = """
-  * Excellence Award for a successful demo to CM of Uttarakhand, India
-  * Trained a team of 24 employees on Deep Learning, Machine Learning, Python
-  * Presented ML products to Mr. S Ramadorai(ex-CEO, TCS) and Mr. N. Ganapathy Subramaniam(COO, TCS)
-  """
+  description = ""
 
 +++
